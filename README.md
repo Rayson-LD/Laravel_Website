@@ -14,5 +14,4 @@ I'll be posting the back-end development of this website in new Repo
 <img src="web5.png" width=1000/>
 <img src="web6.png" width=1000/>
 <img src="web7.png" width=1000/>
-<img src="web8.png" width=1000/>
 <img src="web9.png" width=1000/>
